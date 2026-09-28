@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there 👋 I'm Hemavarshini
 
-<!--
-**HemavarshiniManoharan/HemavarshiniManoharan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Electronics & Communication Engineering
+📊 Data Science & Analytics enthusiast
+💻 Skilled in Python, SQL, Excel, Power BI & Tableau
+🤖 Exploring Machine Learning and Data-driven solutions
 
-Here are some ideas to get you started:
+### 🔧 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Python | SQL | Excel
+* Power BI | Tableau
+* Data Analysis | Data Visualization | EDA
+* Machine Learning
+* Pandas | NumPy | Matplotlib | Seaborn
+
+### 📌 Projects
+
+* 🚗 CarDekho Used Cars Analytics – Exploratory Data Analysis
+* 📊 Interactive Lead & Sales Analytics Dashboard
+* 💼 Job Market & Salary Analytics Dashboard
+* 🛒 Online Shopping Sales Dashboard
+* 🏋️ Fitness & Membership Management Dashboard
+* 🚦 Traffic Sign Detection using Machine Learning
+* 🌱 Quantum Image Processing for Plant Disease Detection
+
+### 🌱 Currently Learning
+
+Data Science, Machine Learning & advanced analytics
+
+### 📫 Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/hemavarshini-m-1b95072b3/)
