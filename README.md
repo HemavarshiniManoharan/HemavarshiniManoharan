@@ -13,6 +13,15 @@
 * Machine Learning
 * Pandas | NumPy | Matplotlib | Seaborn
 
+### 🤖 ML & AI Algorithms
+
+* Linear Regression
+* Random Forest
+* K-Means Clustering
+* DBSCAN
+* CNN / Deep Learning
+* Natural Language Processing (NLP)
+
 ### 📌 Projects
 
 * 🚗 CarDekho Used Cars Analytics – Exploratory Data Analysis
