@@ -22,17 +22,7 @@
 * CNN / Deep Learning
 * Natural Language Processing (NLP)
 
-### 📌 Projects
-
-* 🚗 CarDekho Used Cars Analytics – Exploratory Data Analysis
-* 📊 Interactive Lead & Sales Analytics Dashboard
-* 💼 Job Market & Salary Analytics Dashboard
-* 🛒 Online Shopping Sales Dashboard
-* 🏋️ Fitness & Membership Management Dashboard
-* 🚦 Traffic Sign Detection using Machine Learning
-* 🌱 Quantum Image Processing for Plant Disease Detection
-
-### 🌱 Currently Learning
+### 💻 Currently Learning
 
 Data Science, Machine Learning & advanced analytics
 
